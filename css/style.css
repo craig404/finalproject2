@@ -8,7 +8,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: url(img/solar-system-g7914dbc6b_1920.jpg);
+    background-image: url(/finalproject2/img/solar-system-g7914dbc6b_1920.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -159,7 +159,7 @@ h3{
 .cta{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.116),rgba(0, 0, 0, 0.178)),url(img/man-ga5062dfd2_1920.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.116),rgba(0, 0, 0, 0.178)),url(/finalproject2/img/man-ga5062dfd2_1920.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -204,7 +204,7 @@ footer{
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,.07)),url(img/solar-panels-g569e06f27_1920.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,.07)),url(/finalproject2/img/solar-panels-g569e06f27_1920.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
